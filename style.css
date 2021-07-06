@@ -1,0 +1,38 @@
+.menu{
+display: flex;
+justify-content: space-between;
+font-size: 20px;
+padding: 15px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: 400;
+color: rgb(117, 97, 230);
+}
+
+body{
+    margin: 0px;
+    background-color: #ee27cde3;
+}
+
+.grid img{
+    border:2px solid rgba(230, 8, 19, 0.863);
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: rgb(25, 216, 230);
+    flex-flow: center;
+    justify-content: right;
+    display: flex;
+    flex-wrap: wrap;
+
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family:fantasy;
+}
+.bodying{
+    font-style: italic;
+    background-color: rgb(226, 213, 24);
+    
+}
